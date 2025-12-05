@@ -49,7 +49,6 @@ At the top level the memory exposes:
   - `RE` read enable or sense enable (active high)  
   - `PR` precharge enable (active high)  
 
-> Edit names to match your actual symbols.
 
 ---
 
