@@ -4,7 +4,7 @@ Schematic level design and simulation of a 1 kb SRAM built from a standard 6T bi
 
 ---
 
-## Repository contents
+# repository contents
 
 ```text
 .
@@ -42,6 +42,7 @@ Schematic level design and simulation of a 1 kb SRAM built from a standard 6T bi
       ├─ Sim_1-bit_SRAM_Cell.png
       ├─ sram_write.png
       └─ sram_read.png
+---
 
 ## 1. Top level architecture
 
@@ -58,8 +59,7 @@ This project implements a 1 kb SRAM organized as a 32 x 32 6T bitcell array, acc
 **Peripheral integration view**
 ![1kb SRAM circuitry](docs/figures/1kb_sram_circuitry.png)
 
-<<<<<<< HEAD
-=======
+
 ### 1.2 Addressing and control
 
 The design is documented as a 1 bit I/O memory slice at the top level:
@@ -74,7 +74,6 @@ The design is documented as a 1 bit I/O memory slice at the top level:
   - `WE` write enable for write driver
   - `SE` or `SA_EN` sense amplifier enable
   - decoded wordline enable and column select enables
->>>>>>> 7673f59 (Added cadence files and figures)
 
 ---
 
