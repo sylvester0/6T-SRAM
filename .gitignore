@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Cadence / Virtuoso common generated outputs
+**/psf/
+**/psfbin/
+**/psfData/
+**/spectre/
+**/aps/
+**/*.raw
+**/*.log
+**/*.trn
+**/*.st0
+**/*.ic
+**/*.dc
+**/*.ac
+**/*.noise
+**/*.srf
+**/*.ahdlSimDB/
+**/*.key
+**/netlist/
+**/simOutput/
+
+# Temporary / lock files
+**/cds.lock
+**/.cdslck*
+**/*~ 

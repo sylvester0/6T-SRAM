@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      soo33
+HostName                       ece-ssh1.rutgers.edu
+ProcessIdentifier              2023
+ProcessCreationTime_UTC        1757370097
+ProcessCreationTime_Readable   Mon Sep  8 18:21:37 2025 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /ece/grad/soo33/RFdesign/IBM7RF/sram/sense_amp/symbol/symbol.oa.cdslck.dirlck
+TimeEditLocked                 Mon Sep  8 18:41:10 2025 EDT
